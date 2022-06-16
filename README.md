@@ -1,9 +1,9 @@
 # Practicas-Teoria-computacional
-Implementaci贸n de aut贸matas de pila y analizadores l茅xicos con Python para la materia de Teor铆a de la computaci贸n.. 
-##Pr谩ctica 1. 
-Implementaci贸n  de  alfabetos  y  lenguajes.
-##Pr谩ctica 2. 
-Implementaci贸n de AFDs que aceptan expresiones regulares con aplicaci贸n para el dise帽o de un analizador l茅xico.
-##Pr谩ctica 3.
-Implementaci贸n  de  GIC  utilizando  un  Aut贸mata  de  Pila. 
+Implementaci髇 de automatas de pila y analizadores l閤icos con Python para la materia de Teor韆 de la computaci髇.. 
+##-Pr醕tica 1:  
+Implementaci髇  de  alfabetos  y  lenguajes.
+##- Practica 2: 
+Implementaci髇 de AFDs que aceptan expresiones regulares con aplicaci贸n para el dise駉 de un analizador l閤ico.
+##- Pr醕tica 3:
+Implementaci髇  de  GIC  utilizando  un  aut髆ata  de  Pila. 
 
