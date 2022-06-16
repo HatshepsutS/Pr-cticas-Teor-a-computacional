@@ -1,2 +1,2 @@
-# Pr-cticas-Teor-a-computacional
+# Practicas-Teoria-computacional
 Implementación de autómatas de pila y analizadores léxicos con Python
